@@ -2,10 +2,17 @@
 
 ## Logos
 
-![](./logos/journy.svg)
-![](./logos/journy-logo-blue.svg)
-![](./logos/journy-white.svg)
-![](./logos/journy-logo-white.svg)
+| ![](./logos/journy.svg) |
+| ----------------------- |
+
+| ![](./logos/journy-logo-blue.svg) |
+| --------------------------------- |
+
+| ![](./logos/journy-white.svg) |
+| ----------------------------- |
+
+| ![](./logos/journy-logo-white.svg) |
+| ---------------------------------- |
 
 ## Fonts
 
