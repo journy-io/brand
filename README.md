@@ -1,3 +1,14 @@
 # Brand
 
-This repository holds our brand assets. To use for marketplaces etc.
+## Logos
+
+![](./logos/journy.svg)
+![](./logos/journy-logo-blue.svg)
+![](./logos/journy-white.svg)
+![](./logos/journy-logo-white.svg)
+
+## Fonts
+
+- [Poppins](https://fonts.google.com/specimen/Poppins)
+- [Roboto](https://fonts.google.com/specimen/Roboto)
+
